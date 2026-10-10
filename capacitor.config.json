@@ -1,0 +1,13 @@
+{
+  "appId": "app.zamolxis.biblia.app",
+  "appName": "Biblia — citește, ascultă și studiază",
+  "webDir": "www",
+  "server": {
+    "url": "https://biblia.zamolxis.app/",
+    "cleartext": false,
+    "errorPath": "offline.html"
+  },
+  "android": {
+    "backgroundColor": "#111111"
+  }
+}
