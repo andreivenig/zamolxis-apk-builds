@@ -1,0 +1,22 @@
+{
+  "appId": "app.zamolxis.worldark.app",
+  "appName": "Zamolxis AI · WorldArk",
+  "webDir": "www",
+  "server": {
+    "url": "https://worldark.zamolxis.app/",
+    "cleartext": false,
+    "errorPath": "offline.html"
+  },
+  "android": {
+    "backgroundColor": "#111111"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1200,
+      "backgroundColor": "#111111"
+    },
+    "StatusBar": {
+      "backgroundColor": "#111111"
+    }
+  }
+}
